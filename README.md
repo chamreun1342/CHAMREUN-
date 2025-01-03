@@ -145,9 +145,3 @@
             } else {
                 qrBox.style.display = "none";
             }
-        }
-    </script>
-
-</body>
-</html>
-</body>

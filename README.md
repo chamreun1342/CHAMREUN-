@@ -207,5 +207,4 @@
 </head>
 <body>
     <a href="https://youtube.com/channel/UCzvJQAkjgPx0v6cW7S3F8Ag?si=j3lC-pe86x-2g_6H" class="button">ចូល YouTube របស់ខ្ញុំ</a>
-    <a href="https://www.facebook.com/profile.php?id=100067119603944&mibextid=ZbWKwL" class="button">ចូល Page របស់ខ្ញុំ</a>
-</body>
+    <a href="https://www.facebook.com/profile.php?id=100067119603944&mibextid=ZbWKwL" class="button">ចូល Page របស់ខ្ញុំ
